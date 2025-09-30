@@ -561,6 +561,10 @@ body {
     padding: 30px;
     text-align: center;
     transition: all 0.3s ease;
+    min-height: 240px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
 }
 
 .cert-icon {
